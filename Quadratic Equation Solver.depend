@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1760999564 source:g:\c++ code\quadratic equation solver\main.cpp
+	<iostream>
+	<cmath>
+
