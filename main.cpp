@@ -49,20 +49,20 @@ x1 = ((-bx) + sqrt(discriminant) )/2*ax;
 x2 = ((-bx) - sqrt(discriminant))/2*ax;
 cout << "first root x1 :" << x1<< endl;
 cout << ">>--------------------------" << endl;
-cout << "first root x2 :" << x2<< endl;
+cout << "second root x2 :" << x2<< endl;
 }else if (discriminant < 0){
 real =  -bx/2*ax;
 imagin = sqrt(-discriminant)/ 2*ax;
 imagin = round(imagin * 100) / 100;
 cout << "first root x1 a+bi :" << real <<"+"<< imagin << "i"<< endl;
 cout << ">>--------------------------" << endl;
-cout << "first root x2 a-bi :" << real <<"-"<< imagin << "i"<< endl;
+cout << "second root x2 a-bi :" << real <<"-"<< imagin << "i"<< endl;
 }else if (discriminant == 0){
     x1 = -bx/2*ax;
     x2 = x1;
     cout << "first root x1 :" << x1<< endl;
     cout << ">>--------------------------" << endl;
-    cout << "first root x2 :" << x2<< endl;
+    cout << "second root x2 :" << x2<< endl;
 }else{
     cout << "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" << endl;
     cout << "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" << endl;
