@@ -73,10 +73,10 @@ g++ quadratic_solver.cpp -o solver
 ## 👨‍💻 Developer
 
 **Ahmed Mohamed Attia Mohamed**
--🎓 *Communications & Electronics Engineering Student*
--📧 [ahm3d.m.attia@gmail.com](mailto:ahm3d.m.attia@gmail.com)
--🔗 [GitHub](https://github.com/Ahm3d0x)
--🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-m-attia-757aa6292/)
+- 🎓 *Communications & Electronics Engineering Student*
+- 📧 [ahm3d.m.attia@gmail.com](mailto:ahm3d.m.attia@gmail.com)
+- 🔗 [GitHub](https://github.com/Ahm3d0x)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-m-attia-757aa6292/)
 
 ---
 
