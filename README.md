@@ -73,10 +73,10 @@ g++ quadratic_solver.cpp -o solver
 ## 👨‍💻 Developer
 
 **Ahmed Mohamed Attia Mohamed**
-🎓 *Communications & Electronics Engineering Student*
-📧 [ahm3d.m.attia@gmail.com](mailto:ahm3d.m.attia@gmail.com)
-🔗 [GitHub](https://github.com/Ahm3d0x)
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-m-attia-757aa6292/)
+-🎓 *Communications & Electronics Engineering Student*
+-📧 [ahm3d.m.attia@gmail.com](mailto:ahm3d.m.attia@gmail.com)
+-🔗 [GitHub](https://github.com/Ahm3d0x)
+-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-m-attia-757aa6292/)
 
 ---
 
@@ -85,8 +85,3 @@ g++ quadratic_solver.cpp -o solver
 `C++` `Quadratic` `Math` `Equation Solver` `CLI App` `Beginner Project` `Algebra` `STEM` `Open Source` `Educational`
 
 ---
-
-هل تحب أضيف في آخر الـREADME قسم بسيط بعنوان
-**“📈 Future Updates”**
-يقول مثلًا إنك ممكن تضيف GUI أو دعم للمعادلات من الدرجة الثالثة مستقبلًا؟
-ولا تفضل تخليه مختصر بالشكل ده؟
